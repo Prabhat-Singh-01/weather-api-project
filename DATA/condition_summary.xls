@@ -1,0 +1,5 @@
+condition,city_count,avg_temp,avg_humidity,avg_wind,cities
+Clear,5,23.2,51.4,2.3,"Bengaluru, Pune, London, New York, Sydney"
+Clouds,3,27.2,57.3,5.3,"Chennai, Tokyo, Dubai"
+Haze,5,33.2,33.2,2.2,"Lucknow, Delhi, Kolkata, Hyderabad, Jaipur"
+Smoke,2,33.5,38.5,3.1,"Mumbai, Ahmedabad"

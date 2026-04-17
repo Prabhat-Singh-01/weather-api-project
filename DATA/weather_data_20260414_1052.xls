@@ -1,0 +1,16 @@
+city,country,collected_at,temp_c,feels_like_c,feels_like_diff,temp_category,temp_min_c,temp_max_c,humidity,humidity_level,pressure_hpa,wind_speed_mps,visibility_m,condition,description
+Lucknow,IN,2026-04-14 10:50:58,33.99,32.15,-1.8,Hot,33.99,33.99,22,Dry,1008,3.09,5000,Haze,haze
+Delhi,IN,2026-04-14 10:50:58,32.05,30.37,-1.7,Warm,32.05,32.05,25,Dry,1009,2.06,3500,Haze,haze
+Mumbai,IN,2026-04-14 10:50:58,33.99,39.06,5.1,Hot,30.94,33.99,52,Comfortable,1010,3.09,3000,Smoke,smoke
+Bengaluru,IN,2026-04-14 10:50:58,32.09,33.18,1.1,Warm,31.12,33.06,44,Comfortable,1015,3.09,8000,Clear,clear sky
+Kolkata,IN,2026-04-14 10:50:58,31.97,38.97,7.0,Warm,31.97,31.97,70,Humid,1009,0.0,3200,Haze,haze
+Chennai,IN,2026-04-14 10:50:58,33.25,40.16,6.9,Hot,32.83,33.46,60,Comfortable,1011,5.81,7000,Clouds,few clouds
+Hyderabad,IN,2026-04-14 10:50:58,35.23,35.23,0.0,Hot,35.23,35.73,31,Dry,1010,4.12,5000,Haze,haze
+Jaipur,IN,2026-04-14 10:50:58,32.62,30.46,-2.2,Warm,32.62,32.62,18,Dry,1011,1.54,5000,Haze,haze
+Pune,IN,2026-04-14 10:50:58,37.3,34.42,-2.9,Hot,37.3,37.3,10,Dry,1012,0.45,10000,Clear,clear sky
+Ahmedabad,IN,2026-04-14 10:50:58,33.02,31.4,-1.6,Hot,33.02,33.02,25,Dry,1011,3.09,4000,Smoke,smoke
+London,GB,2026-04-14 10:50:58,3.7,2.55,-1.2,Cold,2.21,5.16,88,Humid,1016,1.44,10000,Clear,clear sky
+New York,US,2026-04-14 10:50:58,19.85,19.59,-0.3,Mild,16.98,21.08,65,Comfortable,1015,2.06,10000,Clear,clear sky
+Tokyo,JP,2026-04-14 10:50:58,23.58,23.27,-0.3,Mild,21.75,24.88,49,Comfortable,1014,4.63,10000,Clouds,broken clouds
+Dubai,AE,2026-04-14 10:50:58,24.9,25.09,0.2,Mild,24.9,24.9,63,Comfortable,1015,5.51,10000,Clouds,broken clouds
+Sydney,AU,2026-04-14 10:50:58,23.19,22.87,-0.3,Mild,21.87,24.71,50,Comfortable,1018,4.63,10000,Clear,clear sky

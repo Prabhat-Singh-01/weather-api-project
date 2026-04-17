@@ -1,0 +1,16 @@
+city,country,temp_c,humidity,comfort_index
+Sydney,AU,23.19,50,98.8
+Tokyo,JP,23.58,49,98.2
+New York,US,19.85,65,94.1
+Dubai,AE,24.9,63,93.8
+Bengaluru,IN,32.09,44,88.4
+Mumbai,IN,33.99,52,87.5
+Chennai,IN,33.25,60,86.2
+Kolkata,IN,31.97,70,85.0
+Delhi,IN,32.05,25,83.7
+Ahmedabad,IN,33.02,25,82.7
+Hyderabad,IN,35.23,31,82.0
+Jaipur,IN,32.62,18,81.4
+Lucknow,IN,33.99,22,81.0
+Pune,IN,37.3,10,74.7
+London,GB,3.7,88,72.2
